@@ -3,7 +3,6 @@ tmp/
 dist/
 output/
 node_modules/
-.vscode/
 .idea/
 logs/
 locale/**/*.js
@@ -11,7 +10,6 @@ locale/**/*.js
 fider
 fider.exe
 ssr.js
-.env
 npm-debug.log
 
 profile.out
@@ -27,3 +25,4 @@ fider_schema.sql
 fider.sql
 .zed/debug.json
 WARP.md
+config.bat
